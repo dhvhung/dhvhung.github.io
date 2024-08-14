@@ -5,8 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Code and Console Output</title>
     <!-- Prism.js CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap">
     <link href="https://cdn.jsdelivr.net/npm/prismjs@1.28.0/themes/prism-okaidia.css" rel="stylesheet" />
     <style>
+        * {
+            font-family: 'Fira Code', sans-serif;
+        }
         body {
             font-size: 13px;
             margin: 0;
@@ -25,7 +29,6 @@
         }
         .header, .footer {
             text-align: center;
-            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
         }
         pre {
             background-color: #1e1e1e;
@@ -37,7 +40,6 @@
             margin-top: 20px;
         }
         .console-output {
-            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
             background-color: #1e1e1e;
             color: #d4d4d4;
             padding: 1rem;
