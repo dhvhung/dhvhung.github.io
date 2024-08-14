@@ -1,0 +1,28 @@
+- SĐT: 09765 có tồn tại với Họ tên: Vũ Thị G
+
+- Họ tên: Đào Văn C có tồn tại
+
+- Hiển thị thông tin danh bạ:
+1. Tên: Nguyễn Văn A - Số điện thoại: 09123
+2. Tên: Đỗ Văn B - Số điện thoại: 08124
+3. Tên: Đào Văn C - Số điện thoại: 07912
+4. Tên: Phạm Thị D - Số điện thoại: 09876
+5. Tên: Trần Văn E - Số điện thoại: 06543
+6. Tên: Lê Văn F - Số điện thoại: 03421
+7. Tên: Vũ Thị G - Số điện thoại: 09765
+8. Tên: Ngô Văn H - Số điện thoại: 08321
+9. Tên: Bùi Thị I - Số điện thoại: 05678
+10. Tên: Hoàng Văn J - Số điện thoại: 09124
+
+- Danh bạ sau khi xoá một số điện thoại theo tên Bùi Thị I:
+1. Tên: Nguyễn Văn A - Số điện thoại: 09123
+2. Tên: Đỗ Văn B - Số điện thoại: 08124
+3. Tên: Đào Văn C - Số điện thoại: 07912
+4. Tên: Phạm Thị D - Số điện thoại: 09876
+5. Tên: Trần Văn E - Số điện thoại: 06543
+6. Tên: Lê Văn F - Số điện thoại: 03421
+7. Tên: Vũ Thị G - Số điện thoại: 09765
+8. Tên: Ngô Văn H - Số điện thoại: 08321
+9. Tên: Hoàng Văn J - Số điện thoại: 09124
+
+- Danh bạ sau khi xoá tất cả liên hệ:
